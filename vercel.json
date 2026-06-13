@@ -7,7 +7,7 @@
     "backend": {
       "root": "backend",
       "routePrefix": "/_backend",
-      "entrypoint": "parser.py"
+      "entrypoint": "app/main.py"
     }
   }
 }
